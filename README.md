@@ -6,4 +6,4 @@
 
 #### Script and Result
 ##### KELAZZZ
-![Screenshot 2023-10-12 223113](https://github.com/farelmuzakky/tugas2_pso/assets/145093917/ace8de95-822c-4e38-b116-178665719be4)
+![image](https://github.com/farelmuzakky/tugas2_pso/assets/145093917/a2b6a96b-f0db-4fb2-966e-f2be0c32428b)
